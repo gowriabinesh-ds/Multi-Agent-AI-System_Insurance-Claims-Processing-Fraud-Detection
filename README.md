@@ -89,7 +89,7 @@ Sarah Obi | Health Insurance | $850 | Annual health check & blood tests
 
 | Component | Detail |
 |---|---|
-| Framework | [AutoGen](https://github.com/microsoft/autogen) v0.7+ (`autogen-agentchat`, `autogen-ext`) |
+| Framework | AutoGen v0.7+ (`autogen-agentchat`, `autogen-ext`) |
 | LLM Backend | Google Gemini 2.5 Flash Lite (via OpenAI-compatible endpoint) |
 | Agent Pattern | RoundRobinGroupChat with TextMentionTermination |
 | Environment | Jupyter Notebook (Python 3.x) |
